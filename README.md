@@ -1,8 +1,9 @@
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/46109133/149638236-08219c77-c837-4883-b428-8bd5c864e850.png" alt="dt money" width="200"/>
+   <img src="https://github.com/user-attachments/assets/8646f524-b18a-426c-99b7-43de5a63995a" alt="dt money" width="400"/>
 </p>
 
-<h1 align="center">Nome do projeto</h1>
+
+<h1 align="center">Gerenciamento de Alunos</h1>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/igor-sthaynny/">
@@ -17,7 +18,7 @@
   </a>
 </p>
 
-<p align="center">Breve descricao do projeto</p>
+<p align="center">Aplicação para gerenciar um grupo de alunos.</p>
 
 <hr />
 
