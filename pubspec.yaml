@@ -30,6 +30,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  design_system: 
+    git:
+      url: https://github.com/Sthaynny/design_system.git
 
 
   # The following adds the Cupertino Icons font to your application.
